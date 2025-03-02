@@ -3,7 +3,7 @@ session-num: 111
 keywords: Worgs, The Midnight Hall
 todays-date: 23 Feb 2025
 game-location: Palace of Lucent Hall
-game-date: 7 Ches
+game-date: 6 Ches
 reminders:
     - YOUR ALIGNMENT IS NOW LAWFUL EVIL FOR 3 DAYS
     - Ask what the arches in Lucent hall were, and the gears that moved them
