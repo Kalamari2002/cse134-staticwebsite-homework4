@@ -1,9 +1,9 @@
 ---
-session-num: 1
+session-num: 109
 keywords: Vuz Kholdrugh
 todays-date: 26 Jan 2025
 game-location: Vuz Kholdrugh settlements
-game-date: 
+game-date: 5 Ches
 reminders:
     - Sothro said he might know someone who could help me either recover my memories or help with the incarnation spell. He tells Mival that the person is a priestess he used to know who could communicate with his ancestors, but he didn’t tell Poko that cause Poko said he would be interested in it after they figure everything out with the Feywild.
     - Aspen best friend forever

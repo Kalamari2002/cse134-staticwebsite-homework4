@@ -1,9 +1,9 @@
 ---
-session-num: 2
+session-num: 110
 keywords: The Lucent Hall
 todays-date: 16 Feb 2025
 game-location: Outskirts of Lucent Hall
-game-date: 
+game-date: 7 Ches
 reminders:
     - YOUR ALIGNMENT IS NOW LAWFUL EVIL FOR 3 DAYS
 ---
