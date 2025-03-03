@@ -38,4 +38,13 @@ The Aeternum is investigating the Blight\
 How a force of the prime material plane has touched the raw magic of the Fey.\
 Luge has observed the Blight, determined it originated from the prime material plane\
 It’s become more present\
-**Mival can use magic from the fey without facing its consequences, the veil doesn’t repel him**
+**Mival can use magic from the fey without facing its consequences, the veil doesn’t repel him**\
+**META INFO**
+- Lucent Hall - Spring, life, death, cycles
+- Midnight Hall - Winter, secrets, knowledge, desires
+- Serein Hall - Fall, storms, grief, loss and purification
+- Hall of Mirage - Summer, hallucination, dreams, illusion
+- Hall of Aegis - Protection, sacrifice, war
+- Thalassal Hall - Unaligned territory, sea
+- The Lesser Archfey like The Veilkeeper and Luthria are like gods, they can be worshipped and serve as patrons. But they aren’t exactly gods, at least not in the same sense as primers see gods.
+
